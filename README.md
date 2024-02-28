@@ -26,7 +26,7 @@
 
 > Supervised-Learning-Challenge replicates a scenario where a lender seeks the assistance of a data analyst to refine their predictive model. Within "credit_risk_classification.ipynb", there is a(n):
 > + Analysis report
-> + Exploratory analysis
+> + Data exploration
 > + Machine learning model (LogisticRegression) before and after resampling (RandomOverSampler)
 > + Evaluation of predictive performance (balanced_accuracy_report, confusion_matrix, and classification_report)
 > 
